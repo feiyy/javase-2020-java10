@@ -14,6 +14,8 @@ public class Practice3 {
 		double s1 = (h-32) * 5/9;
 		
 		System.out.println(s1);
+
+System.out.println(s1);
 	
 	}
 
