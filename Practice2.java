@@ -16,7 +16,7 @@ public class Practice2 {
 		
 		System.out.append(a + "的各位之和=" + sum);
 		
-		
+		System.out.append(a + "的各位之和=" + sum);
 
 	}
 
